@@ -1,8 +1,8 @@
 {
-  "items": {
+  "items": [
     "car",
     "bus",
     "horse",
     "bike"
-  }
+  ]
 }
