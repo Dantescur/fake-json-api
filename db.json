@@ -4,25 +4,25 @@
       "name": "Laptop",
       "description": "A sleek and powerful laptop with a 15-inch display, 8GB RAM, 256GB SSD, and an Intel Core i5 processor. It comes with a wireless mouse, a keyboard, and a backpack. It is ideal for work, gaming, and entertainment.",
       "price": "$799.99",
-      "img": "[laptop](https://www.pexels.com/photo/laptop-coffee-cellphone-and-headphones-8251149/)"
+      "img": "https://www.pexels.com/photo/laptop-coffee-cellphone-and-headphones-8251149/"
     },
     {
       "name": "Headphones",
       "description": "A pair of wireless headphones with noise cancellation, Bluetooth connectivity, and a long battery life. They have a comfortable fit, a built-in microphone, and a touch control panel. They are compatible with most devices and offer a high-quality sound experience.",
       "price": "$149.99",
-      "img": "[headphones](https://www.pexels.com/search/laptop%20and%20coffee/)"
+      "img": "https://www.pexels.com/search/laptop%20and%20coffee/"
     },
     {
       "name": "Coffee Maker",
       "description": "A programmable coffee maker that can brew up to 12 cups of coffee, with a timer, a pause-and-serve feature, and a warming plate. It has a removable filter basket, a water level indicator, and an auto shut-off function. It is easy to use and clean, and comes with a glass carafe and a measuring spoon.",
       "price": "$59.99",
-      "img": "[coffee maker](https://www.dreamstime.com/photos-images/cup-coffee-laptop-headphone.html)"
+      "img": "https://www.dreamstime.com/photos-images/cup-coffee-laptop-headphone.html"
     },
     {
       "name": "Camera",
       "description": "A digital camera with a 24.2 megapixel sensor, a 3-inch LCD screen, and a 18-55mm lens. It has a fast autofocus, a built-in flash, and a Wi-Fi and Bluetooth connectivity. It can record videos in full HD and take stunning photos in various modes and settings.",
       "price": "$499.99",
-      "img": "[camera](https://www.pexels.com/photo/photography-of-laptop-computer-camera-smartphone-headphones-and-mug-705164/)"
+      "img": "https://www.pexels.com/photo/photography-of-laptop-computer-camera-smartphone-headphones-and-mug-705164/"
     }
   ]
 }
