@@ -3,42 +3,42 @@
     {
       "id": 0,
       "message": "probando",
-      "url": "http://localhost:3000/bootstrap-logo.svg"
+      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/bootstrap-logo.svg"
     },
     {
       "id": 1,
       "message": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "url": "http://localhost:3000/image-avatar.png"
+      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/image-avatar.png"
     },
     {
       "id": 2,
       "message": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "url": "http://localhost:3000/image-equilibrium.jpg"
+      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/image-equilibrium.jpg"
     },
     {
       "id": 3,
       "message": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "url": "http://localhost:3000/profile.png"
+      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/profile.png"
     },
     {
       "id": 4,
       "message": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "url": "http://localhost:3000/icon-ethereum.svg"
+      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/icon-ethereum.svg"
     },
     {
       "id": 5,
       "message": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "url": "http://localhost:3000/eye-svgrepo-com.svg"
+      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/eye-svgrepo-com.svg"
     },
     {
       "id": 6,
       "message": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "url": "http://localhost:3000/icon-clock.svg"
+      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/icon-clock.svg"
     },
     {
       "id": 7,
       "message": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "url": "http://localhost:3000/vite.svg"
+      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/vite.svg"
     }
   ]
 }
