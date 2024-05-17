@@ -3,42 +3,42 @@
     {
       "id": 0,
       "message": "probando",
-      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/bootstrap-logo.svg"
+      "url": "https://raw.githubusercontent.com/Dantescur/fake-json-api/e06e927689c2a248d38a55e7bc2f3f6e7008431f/public/bootstrap-logo.svg"
     },
     {
       "id": 1,
       "message": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/image-avatar.png"
+      "url": "https://raw.githubusercontent.com/Dantescur/fake-json-api/main/public/image-avatar.png"
     },
     {
       "id": 2,
       "message": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/image-equilibrium.jpg"
+      "url": "https://raw.githubusercontent.com/Dantescur/fake-json-api/main/public/image-equilibrium.jpg"
     },
     {
       "id": 3,
       "message": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/profile.png"
+      "url": "https://raw.githubusercontent.com/Dantescur/fake-json-api/e06e927689c2a248d38a55e7bc2f3f6e7008431f/public/vite.svg"
     },
     {
       "id": 4,
       "message": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/icon-ethereum.svg"
+      "url": "https://raw.githubusercontent.com/Dantescur/fake-json-api/e06e927689c2a248d38a55e7bc2f3f6e7008431f/public/icon-ethereum.svg"
     },
     {
       "id": 5,
       "message": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/eye-svgrepo-com.svg"
+      "url": "https://raw.githubusercontent.com/Dantescur/fake-json-api/e06e927689c2a248d38a55e7bc2f3f6e7008431f/public/eye-svgrepo-com.svg"
     },
     {
       "id": 6,
       "message": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/icon-clock.svg"
+      "url": "https://raw.githubusercontent.com/Dantescur/fake-json-api/e06e927689c2a248d38a55e7bc2f3f6e7008431f/public/icon-clock.svg"
     },
     {
       "id": 7,
       "message": "Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.",
-      "url": "https://github.com/Dantescur/fake-json-api/blob/main/public/vite.svg"
+      "url": "https://raw.githubusercontent.com/Dantescur/fake-json-api/main/public/profile.png"
     }
   ]
 }
